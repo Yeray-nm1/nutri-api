@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api.v1.routes import router as api_router
+from app.api import routes_product, routes_season, routes_region
 
 app = FastAPI(
     title="Nutri API",
@@ -7,4 +7,6 @@ app = FastAPI(
     version="1.0.0"
 )
 
-app.include_router(api_router, prefix="/api/v1")
+app.include_router(routes_product.router, prefix="/api")
+app.include_router(routes_season.router, prefix="/api")
+app.include_router(routes_region.router, prefix="/api")

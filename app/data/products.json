@@ -1,26 +1,29 @@
 [
   {
-      "name": "Fresa",
-      "type": "Fruta",
-      "description": "Fruta dulce rica en vitamina C",
-      "regions": ["Cataluña", "Andalucía"],
-      "months": ["Mar", "Abr", "May"],
-      "image": "https://example.com/fresa.jpg"
+    "id": 1,
+    "name": "Fresa",
+    "type": "Fruta",
+    "description": "Fruta dulce rica en vitamina C",
+    "regions": ["Cataluña", "Andalucía"],
+    "months": ["Mar", "Abr", "May"],
+    "image": "https://example.com/fresa.jpg"
   },
   {
-      "name": "Manzana",
-      "type": "Fruta",
-      "description": "Fruta crujiente y dulce",
-      "regions": ["Cataluña", "Andalucía"],
-      "months": ["Ene", "Feb", "Mar"],
-      "image": "https://example.com/manzana.jpg"
+    "id": 2,
+    "name": "Manzana",
+    "type": "Fruta",
+    "description": "Fruta crujiente y dulce",
+    "regions": ["Cataluña", "Andalucía"],
+    "months": ["Ene", "Feb", "Mar"],
+    "image": "https://example.com/manzana.jpg"
   },
   {
-      "name": "Lechuga",
-      "type": "Verdura",
-      "description": "Vegetal fresco y crujiente",
-      "regions": ["Cataluña", "Andalucía"],
-      "months": ["Ene", "Feb", "Mar"],
-      "image": "https://example.com/lechuga.jpg"
+    "id": 3,
+    "name": "Lechuga",
+    "type": "Verdura",
+    "description": "Vegetal fresco y crujiente",
+    "regions": ["Cataluña", "Andalucía"],
+    "months": ["Ene", "Feb", "Mar"],
+    "image": "https://example.com/lechuga.jpg"
   }
 ]
