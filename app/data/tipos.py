@@ -1,0 +1,4 @@
+TIPOS = [
+    "Verdura",
+    "Fruta",
+]
