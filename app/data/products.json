@@ -1,155 +1,506 @@
 [
   {
     "id": 1,
-    "name": "Aguacate",
-    "type": "Fruta",
-    "description": "Grasas saludables, vitamina E, potasio y fibra",
-    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Nov", "Dic"],
-    "regions": ["Andalucía", "Canarias"],
-    "image": "https://exoticfruitbox.com/wp-content/uploads/2015/10/aguacate.jpg"
+    "name": "Acelga",
+    "type": "Verdura",
+    "description": "Vitamina K, A | Hierro, Magnesio | Ácido oxálico",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana"],
+    "image": "https://www.hogarmania.com/archivos/202201/acelga-668x400x80xX.jpg"
   },
   {
     "id": 2,
-    "name": "Albaricoque",
-    "type": "Fruta",
-    "description": "Vitamina A, betacarotenos y antioxidantes",
-    "months": ["May", "Jun", "Jul"],
-    "regions": ["Murcia", "Valencia"],
-    "image": "https://media.istockphoto.com/id/1276593770/es/foto/albaricoques-aislamiento-de-albaricoque-albaricoques-con-rodajas-sobre-blanco-albaricoques.jpg?s=612x612&w=0&k=20&c=npzQHCnGumGG5pJS34E5Jx4oDe6tL2J6hsNLH9JjhmU="
+    "name": "Ajo",
+    "type": "Verdura",
+    "description": "Vitamina B6, C | Manganeso, Selenio | Alicina",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Castilla-La Mancha", "Andalucía", "Castilla y León"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/06/Garlic-PNG-Clipart-300x225.png"
   },
   {
     "id": 3,
     "name": "Alcachofa",
     "type": "Verdura",
-    "description": "Fibra, cinarina y antioxidantes",
-    "months": ["Ene", "Feb", "Mar", "Abr"],
-    "regions": ["Murcia", "Navarra"],
-    "image": "https://media.istockphoto.com/id/146797714/es/foto/alcachofa.jpg?s=612x612&w=0&k=20&c=zVO7Oh6FWKz7W9ZDaVpbd_RWwN7K6fJzSw4QDXTvJlc="
+    "description": "Folatos | Potasio, Magnesio | Cinarina, Inulina",
+    "months": ["Nov", "Dic", "Ene", "Feb", "Mar"],
+    "regions": ["Murcia", "Comunidad Valenciana", "Navarra", "Andalucía"],
+    "image": "https://www.pngall.com/wp-content/uploads/11/Fresh-Artichokes-PNG-Image.png"
   },
   {
     "id": 4,
-    "name": "Brócoli",
+    "name": "Apio",
     "type": "Verdura",
-    "description": "Vitamina C, ácido fólico, calcio y antioxidantes",
-    "months": ["Ene", "Feb", "Mar", "Nov", "Dic"],
-    "regions": ["Navarra", "Murcia"],
-    "image": "https://media.istockphoto.com/id/183300149/es/foto/br%C3%A9col.jpg?s=612x612&w=0&k=20&c=3bpl-NTZlSiVb5oWMY7w6qylfu-mqYp8d8CIbmoOcWI="
+    "description": "Vitamina K | Potasio, Sodio | Ftalidas",
+    "months": ["Nov", "Dic", "Ene", "Feb", "Mar"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Extremadura", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Apio.jpg/800px-Apio.jpg"
   },
   {
     "id": 5,
-    "name": "Cereza",
-    "type": "Fruta",
-    "description": "Antocianinas, vitamina C y melatonina natural",
-    "months": ["May", "Jun", "Jul"],
-    "regions": ["Aragón", "Extremadura"],
-    "image": "https://media.istockphoto.com/id/468348156/es/foto/cereza-dulce.jpg?s=612x612&w=0&k=20&c=0JqG1TOslfB9nPtn1a2YksW4JWuhA5aa2zXkw9qgu8o="
+    "name": "Berenjena",
+    "type": "Verdura",
+    "description": "Vitamina B6 | Manganeso | Nasunina, Fibra",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Eggplant-PNG-Clipart.png"
   },
   {
     "id": 6,
-    "name": "Fresa",
-    "type": "Fruta",
-    "description": "Vitamina C, antioxidantes y fibra",
-    "months": ["Mar", "Abr", "May", "Jun"],
-    "regions": ["Huelva", "Cataluña"],
-    "image": "https://media.istockphoto.com/id/1412854156/es/foto/fresas-aisladas-fresa-entera-y-media-sobre-fondo-blanco-rodaja-de-fresa-con-trazado-de-recorte.jpg?s=612x612&w=0&k=20&c=pjxh7kbYhG6gv_liOdHmP8APxPoaXrLBg2A7GgGAMWE="
+    "name": "Brócoli",
+    "type": "Verdura",
+    "description": "Vitamina C, K, Folatos | Calcio, Potasio | Glucosinolatos",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Broccoli-PNG.png"
   },
   {
     "id": 7,
-    "name": "Kiwi",
-    "type": "Fruta",
-    "description": "Alta en vitamina C, E, y fibra",
-    "months": ["Nov", "Dic", "Ene", "Feb", "Mar"],
-    "regions": ["Galicia", "Asturias"],
-    "image": "https://media.istockphoto.com/id/482728017/es/foto/kiwi.jpg?s=612x612&w=0&k=20&c=YUcC7CxGZKclGFJa4s5CVo68HqnDXVsA8ewGlYR2Z8I="
+    "name": "Calabacín",
+    "type": "Verdura",
+    "description": "Vitamina C | Manganeso, Potasio | Antioxidantes",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/11/Zucchini-PNG-File.png"
   },
   {
     "id": 8,
-    "name": "Lechuga",
+    "name": "Calabaza",
     "type": "Verdura",
-    "description": "Fibra, folatos y vitamina K",
-    "months": ["Todo el año"],
-    "regions": ["Murcia", "Navarra"],
-    "image": "https://media.istockphoto.com/id/1387420863/es/foto/vista-superior-de-lechuga-butterhead-fresca-aislada.jpg?s=612x612&w=0&k=20&c=eiPbxtes-rJZ8pxmMvomegcyYUN7pgHjpfHCEPsbxPo="
+    "description": "Vitamina A (Betacaroteno) | Potasio | Fibra",
+    "months": ["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/18/Delightful-Orange-Pumpkin-Featured-In-Fall-Setup-PNG.png"
   },
   {
     "id": 9,
-    "name": "Mandarina",
-    "type": "Fruta",
-    "description": "Vitamina C, fibra y flavonoides",
-    "months": ["Nov", "Dic", "Ene", "Feb"],
-    "regions": ["Valencia", "Murcia"],
-    "image": "https://media.istockphoto.com/id/504384796/es/foto/maduros-frescos-tangerines.jpg?s=612x612&w=0&k=20&c=PqIgR6aGkqAFl9y9B6dNd4HoMd37WigyAg2JKZ2_F0I="
+    "name": "Cardo",
+    "type": "Verdura",
+    "description": "Vitamina K | Potasio | Cinarina",
+    "months": ["Ene", "Nov", "Dic"],
+    "regions": ["Navarra", "Aragón"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cardo.jpg/800px-Cardo.jpg"
   },
   {
     "id": 10,
-    "name": "Manzana",
-    "type": "Fruta",
-    "description": "Pectina, fibra soluble, antioxidantes",
-    "months": ["Sep", "Oct", "Nov"],
-    "regions": ["La Rioja", "Cataluña"],
-    "image": "https://media.istockphoto.com/id/185262648/es/foto/red-apple-con-hojas-aisladas-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=gDHALTekWqwwNcLgVdwYHpICNizyMBha8-CF91zUUds="
+    "name": "Cebolla",
+    "type": "Verdura",
+    "description": "Vitamina C, B6 | Azufre | Quercetina",
+    "months": ["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct"],
+    "regions": ["Andalucía", "Castilla-La Mancha", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/03/Onion-Free-PNG-Image.png"
   },
   {
     "id": 11,
-    "name": "Melocotón",
-    "type": "Fruta",
-    "description": "Betacarotenos, potasio y vitamina C",
-    "months": ["Jun", "Jul", "Ago"],
-    "regions": ["Aragón", "Murcia"],
-    "image": "https://media.istockphoto.com/id/1393599686/es/foto/fruta-de-melocot%C3%B3n-cortada-por-la-mitad-con-hoja-verde.jpg?s=612x612&w=0&k=20&c=0eN3Kco2qWVCRrj7fZHzaCEaCMSBqpbzr5yxXh9ZQ5M="
+    "name": "Col",
+    "type": "Verdura",
+    "description": "Vitamina C, K | Calcio | Glucosinolatos",
+    "months": ["Ene", "Feb", "Mar", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Cabbage.png"
   },
   {
     "id": 12,
-    "name": "Naranja",
-    "type": "Fruta",
-    "description": "Vitamina C, ácido cítrico y antioxidantes",
-    "months": ["Nov", "Dic", "Ene", "Feb", "Mar"],
-    "regions": ["Valencia", "Andalucía"],
-    "image": "https://media.istockphoto.com/id/2124102567/es/foto/fruto-de-naranja-con-hoja.jpg?s=612x612&w=0&k=20&c=vmZRnhu_wmAhgW0kR1ygW-1Ib9YqZlKpjjOnrWiGrxo="
+    "name": "Coliflor",
+    "type": "Verdura",
+    "description": "Vitamina C, K, Folatos | Potasio | Antioxidantes",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/7/Fresh-Cauliflower-PNG-Photo.png"
   },
   {
     "id": 13,
-    "name": "Pera",
-    "type": "Fruta",
-    "description": "Fibra, potasio y antioxidantes",
-    "months": ["Sep", "Oct", "Nov"],
-    "regions": ["La Rioja", "Cataluña"],
-    "image": "https://media.istockphoto.com/id/1299073137/es/foto/peras-aisladas-fruta-de-pera-verde-de-una-y-media-con-hoja-sobre-fondo-blanco-rebanada-de-pera.jpg?s=612x612&w=0&k=20&c=8cEVuSqpRG1tCfSN1KhwUO6fgZ1a2YT032bHrDWfEzc="
+    "name": "Endibia",
+    "type": "Verdura",
+    "description": "Vitamina A, K | Folatos | Fibra",
+    "months": ["Ene", "Feb", "Mar", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Endive.jpg/800px-Endive.jpg"
   },
   {
     "id": 14,
-    "name": "Pimiento",
+    "name": "Escarola",
     "type": "Verdura",
-    "description": "Vitamina C, A y antioxidantes como la capsantina",
-    "months": ["Jun", "Jul", "Ago", "Sep"],
-    "regions": ["Murcia", "Andalucía"],
-    "image": "https://media.istockphoto.com/id/153564958/es/foto/coloridos-pimientos.jpg?s=612x612&w=0&k=20&c=E_y3l8tJ_MOmYitgOxWiv51k7R2Rw8YXVCBExawfIPg="
+    "description": "Vitamina A, K | Folatos | Antioxidantes",
+    "months": ["Ene", "Feb", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Escarola.jpg/800px-Escarola.jpg"
   },
   {
     "id": 15,
-    "name": "Tomate",
+    "name": "Espárrago verde",
     "type": "Verdura",
-    "description": "Licopeno, vitamina C y potasio",
-    "months": ["Jun", "Jul", "Ago", "Sep"],
-    "regions": ["Andalucía", "Murcia"],
-    "image": "https://media.istockphoto.com/id/1258142863/es/foto/los-tomates-se-a%C3%ADslan-sobre-fondo-blanco-tomate-medio-aislado-vista-lateral-de-tomates-entero.jpg?s=612x612&w=0&k=20&c=9DN_X4xPPiTb6XBku2JY-MdOrih5ikIKGj3TfzbqnIs="
+    "description": "Vitamina A, C, K | Folatos | Glutatión",
+    "months": ["Mar", "Abr", "May"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Extremadura", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/12/Asparagus-PNG-Pic.png"
   },
   {
     "id": 16,
-    "name": "Uva",
-    "type": "Fruta",
-    "description": "Resveratrol, azúcares naturales y antioxidantes",
-    "months": ["Sep", "Oct"],
-    "regions": ["Castilla-La Mancha", "La Rioja"],
-    "image": "https://media.istockphoto.com/id/489520104/es/foto/uva-verde-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=azT5teXEU1IUkH1P5cMnE8Ak4L2JNRf0gmR2ibPLVCM="
+    "name": "Espinaca",
+    "type": "Verdura",
+    "description": "Vitamina A, K, Folatos | Hierro, Magnesio | Luteína",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2/Spinach-Transparent.png"
   },
   {
     "id": 17,
+    "name": "Guisante",
+    "type": "Verdura",
+    "description": "Vitamina B1, C | Hierro, Manganeso | Proteína vegetal",
+    "months": ["Ene", "Feb", "Mar", "Nov", "Dic"],
+    "regions": ["Andalucía", "Extremadura", "Castilla y León"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pea.jpg/800px-Pea.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Haba",
+    "type": "Verdura",
+    "description": "Vitamina B1, Folatos | Hierro, Manganeso | Fibra",
+    "months": ["Ene", "Feb", "Mar"],
+    "regions": ["Andalucía", "Castilla y León", "Extremadura"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fava.jpg/800px-Fava.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Judía verde",
+    "type": "Verdura",
+    "description": "Vitamina C, K | Silicio, Manganeso | Fibra",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/4/Green-Beans-Transparent.png"
+  },
+  {
+    "id": 20,
+    "name": "Lechuga",
+    "type": "Verdura",
+    "description": "Vitamina A, K | Folatos | Agua (95%)",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/15/Lettuce-Background-PNG.png"
+  },
+  {
+    "id": 21,
+    "name": "Nabo",
+    "type": "Verdura",
+    "description": "Vitamina C | Calcio, Potasio | Glucosinolatos",
+    "months": ["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Turnip.jpg/800px-Turnip.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Pepino",
+    "type": "Verdura",
+    "description": "Vitamina K | Potasio | Agua (96%)",
+    "months": ["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Cucumber-PNG-HD.png"
+  },
+  {
+    "id": 23,
+    "name": "Pimiento",
+    "type": "Verdura",
+    "description": "Vitamina C (altísima), A | Potasio | Capsantina",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Pepper-Free-Download-PNG.png"
+  },
+  {
+    "id": 24,
+    "name": "Puerro",
+    "type": "Verdura",
+    "description": "Vitamina K, Folatos | Manganeso | Compuestos sulfurados",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/12/Leek-PNG-Pic.png"
+  },
+  {
+    "id": 25,
+    "name": "Rábano",
+    "type": "Verdura",
+    "description": "Vitamina C | Potasio | Sulforafano",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/9/Radish-PNG-HD-Image.png"
+  },
+  {
+    "id": 26,
+    "name": "Remolacha",
+    "type": "Verdura",
+    "description": "Folatos | Hierro, Potasio | Betacianina",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Beetroot.jpg/800px-Beetroot.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Repollo",
+    "type": "Verdura",
+    "description": "Vitamina C, K | Calcio | Glucosinolatos",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cabbage.jpg/800px-Cabbage.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Tomate",
+    "type": "Verdura",
+    "description": "Vitamina C, A | Potasio | Licopeno",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Tomato-PNG-Pic.png"
+  },
+  {
+    "id": 29,
     "name": "Zanahoria",
     "type": "Verdura",
-    "description": "Betacarotenos, fibra y vitamina A",
-    "months": ["Todo el año"],
-    "regions": ["Castilla y León", "Navarra"],
-    "image": "https://media.istockphoto.com/id/471359531/es/foto/zanahorias.jpg?s=612x612&w=0&k=20&c=mIfL1wJJUtW1GxCNlLzFhx8SZkaNBblmaaROxAgfvcY="
+    "description": "Vitamina A (Betacaroteno) | Potasio | Fibra",
+    "months": ["Ene", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "http://pngall.com/wp-content/uploads/2016/04/Carrot-PNG.png"
+  },
+  {
+    "id": 30,
+    "name": "Aguacate",
+    "type": "Fruta",
+    "description": "Vitamina E, K, B5 | Potasio, Magnesio | Grasas saludables",
+    "months": ["Jun", "Jul", "Ago", "Sep", "Oct"],
+    "regions": ["Andalucía", "Islas Canarias", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Avocado-Free-PNG-Image.png"
+  },
+  {
+    "id": 31,
+    "name": "Albaricoque",
+    "type": "Fruta",
+    "description": "Vitamina A (betacaroteno), C | Potasio | Fibra",
+    "months": ["May", "Jun", "Jul", "Ago"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/06/Apricot-PNG.png"
+  },
+  {
+    "id": 32,
+    "name": "Brevas",
+    "type": "Fruta",
+    "description": "Vitamina K | Calcio, Hierro | Fibra prebiótica",
+    "months": ["Jun", "Jul"],
+    "regions": ["Andalucía", "Extremadura", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brevas.jpg/800px-Brevas.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Caqui",
+    "type": "Fruta",
+    "description": "Vitamina A, C | Manganeso | Taninos (maduro)",
+    "months": ["Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Comunidad Valenciana"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Persimmon.jpg/800px-Persimmon.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Cereza",
+    "type": "Fruta",
+    "description": "Vitamina C | Potasio | Antocianinas",
+    "months": ["May", "Jun", "Jul"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Cherry-PNG-HD.png"
+  },
+  {
+    "id": 35,
+    "name": "Chirimoya",
+    "type": "Fruta",
+    "description": "Vitamina B6, C | Potasio | Carbohidratos naturales",
+    "months": ["Oct", "Nov", "Dic"],
+    "regions": ["Andalucía"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cherimoya.jpg/800px-Cherimoya.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Ciruela",
+    "type": "Fruta",
+    "description": "Vitamina K, C | Potasio | Sorbitol (fibra)",
+    "months": ["Jun", "Jul", "Ago"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Plum-PNG-Pic.png"
+  },
+  {
+    "id": 37,
+    "name": "Frambuesa",
+    "type": "Fruta",
+    "description": "Vitamina C, K | Manganeso | Elagitaninos",
+    "months": ["Jun", "Jul", "Ago"],
+    "regions": ["Andalucía", "Asturias"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Raspberry.png"
+  },
+  {
+    "id": 38,
+    "name": "Granada",
+    "type": "Fruta",
+    "description": "Vitamina C, K | Potasio | Punicalaginas",
+    "months": ["Sep", "Oct", "Nov"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Pomegranate-PNG-Picture.png"
+  },
+  {
+    "id": 39,
+    "name": "Higo",
+    "type": "Fruta",
+    "description": "Vitamina K | Calcio, Hierro | Fibra prebiótica",
+    "months": ["Jul", "Ago", "Sep"],
+    "regions": ["Andalucía", "Extremadura", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Fig.jpg/800px-Fig.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Kiwi",
+    "type": "Fruta",
+    "description": "Vitamina C (alta), K | Potasio | Actinidina (enzima digestiva)",
+    "months": ["Ene", "Feb", "Mar", "Oct", "Nov", "Dic"],
+    "regions": ["Galicia", "Asturias"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Kiwi-Transparent.png"
+  },
+  {
+    "id": 41,
+    "name": "Limón",
+    "type": "Fruta",
+    "description": "Vitamina C (altísima) | Potasio | Limoneno",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Lemon-PNG-HD.png"
+  },
+  {
+    "id": 42,
+    "name": "Mandarina",
+    "type": "Fruta",
+    "description": "Vitamina C | Potasio | Nobiletina (flavonoide)",
+    "months": ["Ene", "Feb", "Mar", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/12/Mandarin-PNG-Image.png"
+  },
+  {
+    "id": 43,
+    "name": "Mango",
+    "type": "Fruta",
+    "description": "Vitamina A (betacaroteno), C | Cobre | Mangiferina",
+    "months": ["Ago", "Sep", "Oct", "Nov"],
+    "regions": ["Andalucía", "Islas Canarias"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Mango-Free-Download-PNG.png"
+  },
+  {
+    "id": 44,
+    "name": "Manzana",
+    "type": "Fruta",
+    "description": "Vitamina C, K | Potasio | Quercetina",
+    "months": ["Ene", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Asturias", "Cataluña", "Aragón"],
+    "image": "https://www.pngall.com/wp-content/uploads/19/Bright-Red-Apple-Displaying-Natural-Shine-PNG.png"
+  },
+  {
+    "id": 45,
+    "name": "Melocotón",
+    "type": "Fruta",
+    "description": "Vitamina A, C | Potasio | Beta-criptoxantina",
+    "months": ["May", "Jun", "Jul", "Ago", "Sep"],
+    "regions": ["Aragón", "Cataluña", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Peach-PNG-Picture.png"
+  },
+  {
+    "id": 46,
+    "name": "Melón",
+    "type": "Fruta",
+    "description": "Vitamina A, C | Potasio | Agua (90%)",
+    "months": ["Jun", "Jul", "Ago", "Sep"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/11/Melon-Transparent.png"
+  },
+  {
+    "id": 47,
+    "name": "Membrillo",
+    "type": "Fruta",
+    "description": "Vitamina C | Cobre, Hierro | Pectina",
+    "months": ["Ago", "Sep"],
+    "regions": ["Comunidad Valenciana", "Murcia"],
+    "image": ""
+  },
+  {
+    "id": 48,
+    "name": "Naranja",
+    "type": "Fruta",
+    "description": "Vitamina C (alta) | Folatos | Hesperidina",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Nov", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Orange-PNG-Image.png"
+  },
+  {
+    "id": 49,
+    "name": "Nectarina",
+    "type": "Fruta",
+    "description": "Vitamina A, C | Potasio | Antioxidantes",
+    "months": ["May", "Jun", "Jul", "Ago", "Sep"],
+    "regions": ["Aragón", "Cataluña", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Nectarine.jpg/800px-Nectarine.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Níspero",
+    "type": "Fruta",
+    "description": "Vitamina A, B6 | Potasio | Ácido ursólico",
+    "months": ["Abr", "May"],
+    "regions": ["Comunidad Valenciana"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Loquat.jpg/800px-Loquat.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Paraguaya",
+    "type": "Fruta",
+    "description": "Vitamina A, C | Potasio | Fibra",
+    "months": ["Jul", "Ago"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Paraguaya.jpg/800px-Paraguaya.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Pera",
+    "type": "Fruta",
+    "description": "Vitamina C, K | Cobre | Fibra soluble",
+    "months": ["Jul", "Ago", "Sep", "Oct", "Nov"],
+    "regions": ["Aragón", "Cataluña"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Pear-PNG.png"
+  },
+  {
+    "id": 53,
+    "name": "Plátano",
+    "type": "Fruta",
+    "description": "Vitamina B6, C | Potasio (alto) | Triptófano",
+    "months": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Islas Canarias"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Banana-PNG-HD.png"
+  },
+  {
+    "id": 54,
+    "name": "Pomelo",
+    "type": "Fruta",
+    "description": "Vitamina C (alta) | Potasio | Naringina",
+    "months": ["Ene", "Feb", "Mar", "Abr", "Dic"],
+    "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/12/Grapefruit-PNG-Images.png"
+  },
+  {
+    "id": 55,
+    "name": "Sandía",
+    "type": "Fruta",
+    "description": "Vitamina C (alta) | Potasio | Naringina",
+    "months": ["Jun", "Jul", "Ago"],
+    "regions": ["Andalucía", "Extremadura", "Murcia"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Watermelon-Free-Download-PNG.png"
+  },
+  {
+    "id": 56,
+    "name": "Uva",
+    "type": "Fruta",
+    "description": "Vitamina K, C | Potasio | Resveratrol",
+    "months": ["Sep", "Oct", "Nov", "Dic"],
+    "regions": ["Andalucía", "Extremadura", "Castilla-La Mancha", "Cataluña"],
+    "image": "https://www.pngall.com/wp-content/uploads/2016/04/Grape-PNG-Picture.png"
   }
 ]

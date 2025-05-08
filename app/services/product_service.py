@@ -51,3 +51,18 @@ def get_products(region: str, mes: str) -> List[Product]:
                 "imagen": product["image"],
             })
     return filtered
+
+def get_products_by_type(tipo: str) -> List[Product]:
+    all_products = load_data()
+    filtered = []
+    for product in all_products:
+        if tipo.lower() in product["type"].lower():
+            filtered.append({
+                "nombre": product["name"],
+                "tipo": product["type"],
+                "descripcion": product["description"],
+                "meses": product["months"],
+                "regiones": product["regions"],
+                "imagen": product["image"],
+            })
+    return filtered
