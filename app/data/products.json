@@ -6,7 +6,7 @@
     "description": "Vitamina K, A | Hierro, Magnesio | Ácido oxálico",
     "months": ["Ene", "Feb", "Mar", "Abr", "Oct", "Nov", "Dic"],
     "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana"],
-    "image": "https://www.hogarmania.com/archivos/202201/acelga-668x400x80xX.jpg"
+    "image": "https://www.pngarts.com/files/1/Swiss-Chard-PNG-Transparent-Image.png"
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     "description": "Vitamina K | Potasio, Sodio | Ftalidas",
     "months": ["Nov", "Dic", "Ene", "Feb", "Mar"],
     "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Extremadura", "Murcia"],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Apio.jpg/800px-Apio.jpg"
+    "image": "https://www.pngarts.com/files/8/Celery-PNG-Background-Image.png"
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
     "description": "Vitamina A (Betacaroteno) | Potasio | Fibra",
     "months": ["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"],
     "regions": ["Andalucía", "Cataluña", "Comunidad Valenciana", "Murcia"],
-    "image": "https://www.pngall.com/wp-content/uploads/18/Delightful-Orange-Pumpkin-Featured-In-Fall-Setup-PNG.png"
+    "image": "https://www.pngall.com/wp-content/uploads/18/Orange-Pumpkin-Sitting-Among-Autumn-Foliage-PNG.png"
   },
   {
     "id": 9,

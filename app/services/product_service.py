@@ -9,6 +9,7 @@ def get_all() -> List[Product]:
     filtered = []
     for product in all_products:
         filtered.append({
+            "id": product["id"],
             "nombre": product["name"],
             "tipo": product["type"],
             "descripcion": product["description"],
@@ -25,6 +26,7 @@ def get_product_by_id(id: int) -> Product:
     for product in all_products:
         if product["id"] == id:
             return {
+                "id": product["id"],
                 "nombre": product["name"],
                 "tipo": product["type"],
                 "descripcion": product["description"],
@@ -43,6 +45,7 @@ def get_products(region: str, mes: str) -> List[Product]:
     for product in all_products:
         if region.lower() in [normalize_text(r) for r in product["regions"]] and mes.lower() in [normalize_text(m) for m in product["months"]]:
             filtered.append({
+                "id": product["id"],
                 "nombre": product["name"],
                 "tipo": product["type"],
                 "descripcion": product["description"],
@@ -58,6 +61,7 @@ def get_products_by_type(tipo: str) -> List[Product]:
     for product in all_products:
         if tipo.lower() in product["type"].lower():
             filtered.append({
+                "id": product["id"],
                 "nombre": product["name"],
                 "tipo": product["type"],
                 "descripcion": product["description"],
